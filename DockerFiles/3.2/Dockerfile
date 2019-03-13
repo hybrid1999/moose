@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM centos:7
 MAINTAINER Dilawar Singh <dilawar.s.rajput@gmail.com>
 
 # If you are behind proxy,  uncomment the following lines with appropriate
